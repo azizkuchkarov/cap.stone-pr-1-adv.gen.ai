@@ -8,4 +8,4 @@ data/processed/*
 .env
 __pycache__/
 *.pyc
-
+data/raw/*.pdf
