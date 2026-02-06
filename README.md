@@ -18,6 +18,8 @@ The system provides a web-based chat interface built with **Streamlit**, where u
 - Ask questions related to company documents
 - Receive answers with document citations
 - Create support tickets if an answer is not available
+<img width="895" height="423" alt="image" src="https://github.com/user-attachments/assets/cf888401-5e3d-4427-844b-690739d7c0ce" />
+
 
 **2.2 Answering Questions from Datasources**
 
